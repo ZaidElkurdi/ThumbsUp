@@ -1,0 +1,9 @@
+Package: com.Zaid.thumbsup2
+Name: ThumbsUp 2
+Version: 1.0
+Description: Adds lockscreen controls and Activator gestures for Pandora and Spotify
+Section: Tweaks
+Priority: optional
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/ThumbsUpPref.bundle/ThumbsUpIcon@2x.png
+Depends: mobilesubstrate libobjcipc
